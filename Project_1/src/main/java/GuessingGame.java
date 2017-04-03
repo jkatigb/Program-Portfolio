@@ -56,8 +56,6 @@ public class GuessingGame {
 
             prompter.displayOutcome();
 
-            HighScore.save(game);
-
 
         }
     }
